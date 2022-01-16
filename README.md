@@ -23,7 +23,9 @@ pip install -r requirements.txt
 ```
 
 #### Run locally:
+```shell
 python -u -m src
+```
 
 to run this app via `Docker`:
 
