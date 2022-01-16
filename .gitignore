@@ -1,0 +1,8 @@
+# Pycache
+__pycache__
+# MacOS stuff
+.DS_STORE
+# JetBrains stuff
+.idea
+# virtualenv
+venv
