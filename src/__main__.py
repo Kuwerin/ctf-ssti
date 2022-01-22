@@ -1,7 +1,7 @@
 import os
 from typing import NoReturn
 
-from .transport.handler import flask_app
+from transport.handler import flask_app
 
 
 def main() -> NoReturn:
