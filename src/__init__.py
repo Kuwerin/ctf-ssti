@@ -1,5 +1,5 @@
 """Appcation source code"""
 
-all = [
-    "transport"
+__all__ = [
+    "transport",
 ]

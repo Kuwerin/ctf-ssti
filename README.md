@@ -24,6 +24,7 @@ pip install -r requirements.txt
 
 #### Run locally:
 ```shell
+export PYTHONPATH=src
 python -u -m src
 ```
 
